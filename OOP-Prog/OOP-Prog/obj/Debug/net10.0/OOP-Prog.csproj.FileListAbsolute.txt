@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\OOP-Prog\OOP-Prog\bin\Debug\net10.0\OOP-Prog.exe
+C:\Users\LENOVO\source\repos\OOP-Prog\OOP-Prog\bin\Debug\net10.0\OOP-Prog.deps.json
+C:\Users\LENOVO\source\repos\OOP-Prog\OOP-Prog\bin\Debug\net10.0\OOP-Prog.runtimeconfig.json
+C:\Users\LENOVO\source\repos\OOP-Prog\OOP-Prog\bin\Debug\net10.0\OOP-Prog.dll
+C:\Users\LENOVO\source\repos\OOP-Prog\OOP-Prog\bin\Debug\net10.0\OOP-Prog.pdb
+C:\Users\LENOVO\source\repos\OOP-Prog\OOP-Prog\obj\Debug\net10.0\OOP-Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\OOP-Prog\OOP-Prog\obj\Debug\net10.0\OOP-Prog.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\OOP-Prog\OOP-Prog\obj\Debug\net10.0\OOP-Prog.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\OOP-Prog\OOP-Prog\obj\Debug\net10.0\OOP-Prog.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\OOP-Prog\OOP-Prog\obj\Debug\net10.0\OOP-Prog.sourcelink.json
+C:\Users\LENOVO\source\repos\OOP-Prog\OOP-Prog\obj\Debug\net10.0\OOP-Prog.dll
+C:\Users\LENOVO\source\repos\OOP-Prog\OOP-Prog\obj\Debug\net10.0\refint\OOP-Prog.dll
+C:\Users\LENOVO\source\repos\OOP-Prog\OOP-Prog\obj\Debug\net10.0\OOP-Prog.pdb
+C:\Users\LENOVO\source\repos\OOP-Prog\OOP-Prog\obj\Debug\net10.0\OOP-Prog.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\OOP-Prog\OOP-Prog\obj\Debug\net10.0\ref\OOP-Prog.dll
